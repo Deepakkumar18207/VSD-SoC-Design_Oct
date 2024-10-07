@@ -2,8 +2,8 @@
 Learning-Program-VSD-SoC-Design
 Day 1 Theory
 Unit 1: Sky130 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK Chapter 1. SKY130_D1_SK1 - How to talk to computers SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs
-![image](https://github.com/user-attachments/assets/ec9fda13-74c4-412e-ac85-f9922e3bb6d3)
-![image](https://github.com/user-attachments/assets/dc26dae2-74a6-4d64-beca-5913d480b990)
+![image](https://github.com/user-attachments/assets/ec9fda13-74c4-412e-ac85-f9922e3bb6d3)  ![image](https://github.com/user-attachments/assets/dc26dae2-74a6-4d64-beca-5913d480b990)
+
 
 Interface files from foundry: to communicate for the final chip
 
