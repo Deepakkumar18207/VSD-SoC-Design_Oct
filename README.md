@@ -98,3 +98,16 @@ If metal wiring long enough, it acts as antenna, aborb charges, then it problem 
 ![image](https://github.com/Deepakkumar18207/VSD-SoC-Design/assets/170551774/50ce07c4-c131-4a15-8a73-5f0b0d561b00)
 ![image](https://github.com/Deepakkumar18207/VSD-SoC-Design/assets/170551774/231de33c-63a7-4a6c-abf9-284ddf2df3d0)
 
+# Day 1 Lab Session
+The Total Flow includes the follwoing steps:
+1. Change Directory to Openlane working directory
+2. Alias the Docker command
+3. Invoking the openlane flow docker sub system
+4. Entering openflow interactuve mode becuse we dont want to RUN the floq once (step by step process)
+5. Input the required packages
+6. Preperation for design
+7. Run Synthesis
+8. Exoit from OL flow
+9. take exit from openlane flow docker sub system
+
+    ![image](https://github.com/user-attachments/assets/9f712eb7-b2f1-4bbc-ace4-6b39b6bd6783)
