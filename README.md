@@ -111,5 +111,7 @@ The Total Flow includes the follwoing steps:
 9. take exit from openlane flow docker sub system
 
    ![VirtualBox_Vsd_course_08_10_2024_23_42_51](https://github.com/user-attachments/assets/dca64a56-673e-4dcc-b0e0-f069b5320a93)
+   ![VirtualBox_Vsd_course_09_10_2024_00_05_54](https://github.com/user-attachments/assets/581838bf-2c3b-4ce6-942d-c2d573bd7038)
+
 
 
